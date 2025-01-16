@@ -111,7 +111,8 @@ p {
     color: white;
     cursor: pointer;
     font-size: 30px;
-    text-decoration: none;
+    text-decoration: none; /*Tirar o sublinhado do href*/
+
 }
 
 .header a:hover {
